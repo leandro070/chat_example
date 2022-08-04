@@ -1,0 +1,67 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_webrtc (0.2.2):
+    - Flutter
+    - GoogleWebRTC (= 1.1.31999)
+    - Libyuv (= 1703)
+  - GoogleWebRTC (1.1.31999)
+  - Libyuv (1703)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - platform_device_id (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - platform_device_id (from `.symlinks/plugins/platform_device_id/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+    - Libyuv
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  platform_device_id:
+    :path: ".symlinks/plugins/platform_device_id/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+
+SPEC CHECKSUMS:
+  connectivity_plus: 4226c725ad3132a52655d8c3d664b4039079f7ab
+  device_info: 1c66273ea2d6b9c80dc1d49c236e26af29dbd6a0
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_webrtc: 39898454258b54ba51996850d5da8d5d53bf1524
+  GoogleWebRTC: b39a78c4f5cc6b0323415b9233db03a2faa7b0f0
+  Libyuv: 5f79ced0ee66e60a612ca97de1e6ccacd187a437
+  path_provider_ios: 4456f72bfaa54176344b6685054c62ba902407c3
+  platform_device_id: 595413889bd8c596d461104b7708937d674a2025
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  shared_preferences_ios: 25583c2ea41470b9d851537985ff0e6ae7de70a7
+
+PODFILE CHECKSUM: 642e1262a59f7238a9b65ccfac5b00f35ff92053
+
+COCOAPODS: 1.11.3
